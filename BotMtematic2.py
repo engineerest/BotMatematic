@@ -11,7 +11,7 @@ router = Router()
 dp = Dispatcher()
 dp.include_router(router)
 
-Token = Bot(token="6953283417:AAFU5Y0ux3GI7_As8ObhHJzbgQM9p0v0ZJE")
+Token = Bot(token="&&&&&")
 symbol_list = ['+', '-', '/', '*']
 symbol = random.choice(symbol_list)
 
